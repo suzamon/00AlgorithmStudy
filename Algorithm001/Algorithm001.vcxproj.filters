@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\01 AlgorithmSource">
+      <UniqueIdentifier>{6efdb29c-a867-447f-b6a3-63aceb9c89fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02 Template">
+      <UniqueIdentifier>{0b526622-a8cb-4c03-932d-b5db5c65310e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\99 2021 하반기">
+      <UniqueIdentifier>{09991ef2-816d-4256-85bc-fe4e5d97dc54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\99 2021 하반기\00 BaekJoonTest">
+      <UniqueIdentifier>{97745f15-298c-4e67-ae31-f6fa947b00cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\99 2021 하반기\03 Programmers">
+      <UniqueIdentifier>{30ca76da-951a-4904-85ff-7bc9d04d32da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\99 2021 하반기\04 SWEA">
+      <UniqueIdentifier>{5c14c349-7f02-4714-8e3a-005964e8ec88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\99 2021 하반기\05 BaekJoon">
+      <UniqueIdentifier>{b647c03a-d9bc-4359-8394-81f8dd20d624}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\99 2022 상반기">
+      <UniqueIdentifier>{89afaa8e-3fd0-44fb-a620-46cb301e1e3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\99 2022 상반기\00 BaekJoon">
+      <UniqueIdentifier>{0b955356-79fe-46c0-baff-8ffc9d5b310d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\99 2022 상반기\00 SWEA">
+      <UniqueIdentifier>{dd621cd8-d4bc-46e2-a9f6-0f177302c8d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\00 BaekJoon_2022_2">
+      <UniqueIdentifier>{3503ae79-3961-4379-97e1-847dbd524327}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\00 SWEA">
+      <UniqueIdentifier>{8af3fa4b-ad6f-4b72-bd4f-bd334966c36c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\00 SWEA Test">
+      <UniqueIdentifier>{bc8af5d1-5df0-4cfa-a7d4-d33cddc49746}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Template.cpp">
+      <Filter>소스 파일\02 Template</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort_STL001.cpp">
+      <Filter>소스 파일\01 AlgorithmSource</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort_STL002.cpp">
+      <Filter>소스 파일\01 AlgorithmSource</Filter>
+    </ClCompile>
+    <ClCompile Include="BFS.cpp">
+      <Filter>소스 파일\01 AlgorithmSource</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS.cpp">
+      <Filter>소스 파일\01 AlgorithmSource</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon002_12100.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon001_13460.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon003_3190.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon004_13458.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon005_14499.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon006_14500.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon007_14501.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon008_14502.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon009_14503.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon010_14888.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon011_14890.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon012_17144.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon013_17143.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon014_17142.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon015_17779.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon016_17837.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon017_20061.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon018_19236.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon019_19237.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon020_19238.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon021_20055.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon022_20056.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon023_20057.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon024_20058.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon025_21608.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon026_21609.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon027_21610.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon028_21611.cpp">
+      <Filter>소스 파일\99 2021 하반기\00 BaekJoonTest</Filter>
+    </ClCompile>
+    <ClCompile Include="2018_Ex001.cpp">
+      <Filter>소스 파일\99 2021 하반기\03 Programmers</Filter>
+    </ClCompile>
+    <ClCompile Include="SWEA_Template.cpp">
+      <Filter>소스 파일\02 Template</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex001_1206.cpp">
+      <Filter>소스 파일\99 2021 하반기\04 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex002_1244.cpp">
+      <Filter>소스 파일\99 2021 하반기\04 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex003_1249.cpp">
+      <Filter>소스 파일\99 2021 하반기\04 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex004_1266.cpp">
+      <Filter>소스 파일\99 2021 하반기\04 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex005_1824_X.cpp">
+      <Filter>소스 파일\99 2021 하반기\04 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex006_2805.cpp">
+      <Filter>소스 파일\99 2021 하반기\04 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex001_17135.cpp">
+      <Filter>소스 파일\99 2021 하반기\05 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex002_17136.cpp">
+      <Filter>소스 파일\99 2021 하반기\05 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex003_1018.cpp">
+      <Filter>소스 파일\99 2021 하반기\05 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex004_1062_X.cpp">
+      <Filter>소스 파일\99 2021 하반기\05 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex005_9372.cpp">
+      <Filter>소스 파일\99 2021 하반기\05 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="STLTest.cpp">
+      <Filter>소스 파일\02 Template</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex006_14923.cpp">
+      <Filter>소스 파일\99 2021 하반기\05 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex007_13901.cpp">
+      <Filter>소스 파일\99 2021 하반기\05 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex007_ 22341.cpp">
+      <Filter>소스 파일\99 2021 하반기\04 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>소스 파일\02 Template</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex008_1767.cpp">
+      <Filter>소스 파일\99 2021 하반기\04 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex008_17406.cpp">
+      <Filter>소스 파일\99 2021 하반기\05 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex009_1768.cpp">
+      <Filter>소스 파일\99 2021 하반기\04 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex009_17472.cpp">
+      <Filter>소스 파일\99 2021 하반기\05 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Ex010_21609.cpp">
+      <Filter>소스 파일\99 2021 하반기\05 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test001_BOJ13460.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test002_BOJ12100.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test003_BOJ3190.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test004_BOJ13458.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test005_BOJ14499.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test006_BOJ14500.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test007_BOJ14501.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test008_BOJ14502.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test009_BOJ14503.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test010_BOJ14888.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test011_BOJ14889.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test012_BOJ14890.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test013_BOJ14891.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test014_BOJ15683.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test015_BOJ15684.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test016_BOJ15685.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test017_BOJ15686.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test018_BOJ16234.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test019_BOJ16235.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test020_BOJ16236.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test021_BOJ17144.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test022_BOJ17143.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test023_BOJ17142.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test024_BOJ17779.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test025_BOJ19236.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test026_BOJ20056.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test027_BOJ20055.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test028_BOJ20057.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test029_BOJ20058.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test030_BOJ21608.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test031_BOJ21609.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test032_BOJ_21610.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test033_BOJ21611.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test034_BOJ23288.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test035_BOJ23289.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test001_SWEA1240.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Test002_SWEA1244.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Test003_SWEA1215.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Test036_BOJ23290.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test037_BOJ23291.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="Test004_SWEA1767.cpp">
+      <Filter>소스 파일\99 2022 상반기\00 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Test01_BOJ13460.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test02_BOJ12100.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test03_BOJ3190.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test04_BOJ13458.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test05_BOJ14499.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test06_BOJ14500.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test07_BOJ14501.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test08_BOJ14502.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test09_BOJ14503.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test10_BOJ14888.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test11_BOJ14889.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test12_BOJ14890.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test001.cpp">
+      <Filter>소스 파일\00 SWEA Test</Filter>
+    </ClCompile>
+    <ClCompile Include="Test002.cpp">
+      <Filter>소스 파일\00 SWEA Test</Filter>
+    </ClCompile>
+    <ClCompile Include="Test003.cpp">
+      <Filter>소스 파일\00 SWEA Test</Filter>
+    </ClCompile>
+    <ClCompile Include="Test002_02_SWEA14568.cpp">
+      <Filter>소스 파일\00 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Test002_02_SWEA14568_Function.cpp">
+      <Filter>소스 파일\00 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Test002_01_SWEA14566.cpp">
+      <Filter>소스 파일\00 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Test003_02_SWEA1230.cpp">
+      <Filter>소스 파일\00 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Test003_01_SWEA00004.cpp">
+      <Filter>소스 파일\00 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Test003_01_SWEA00004_Function.cpp">
+      <Filter>소스 파일\00 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Test004_01_SWEA1231.cpp">
+      <Filter>소스 파일\00 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Test004_02_SWEA1233.cpp">
+      <Filter>소스 파일\00 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Test004_03_SWEA1232.cpp">
+      <Filter>소스 파일\00 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Test004_04_SWEA1248.cpp">
+      <Filter>소스 파일\00 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Test005_SWEA3074.cpp">
+      <Filter>소스 파일\00 SWEA</Filter>
+    </ClCompile>
+    <ClCompile Include="Test13_BOJ14889.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test14_BOJ14890.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test15_BOJ14891.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test17_BOJ15684.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test16_BOJ15683.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test18_BOJ15685.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test19_BOJ16236.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test20_BOJ17144.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test21_BOJ17143.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test22_BOJ17142.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test23_BOJ25301.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+    <ClCompile Include="Test24_BOJ25302.cpp">
+      <Filter>소스 파일\00 BaekJoon_2022_2</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
